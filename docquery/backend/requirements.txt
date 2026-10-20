@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-python-multipart
-pypdf
-python-dotenv
-openai
-chromadb
-
