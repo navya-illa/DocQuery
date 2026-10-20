@@ -1,0 +1,2 @@
+# DocQuery
+DocQuery RAG assistant
